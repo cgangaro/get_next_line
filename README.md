@@ -13,4 +13,4 @@ Get Next Line is a C project that involves creating a function to read lines fro
 - Header file `get_next_line.h` includes the function prototype.
 - Additional utility functions are in `get_next_line_utils.c`.
 
-Project made with ❤️ by [YourName](https://github.com/YourName).
+Project made with ❤️ by [cgangaro](https://github.com/cgangaro).
