@@ -17,7 +17,7 @@
 # include <unistd.h>
 # include <fcntl.h>
 
-int		get_next_line(int fd, char **line);
+int		get_next_line(int fd, char **line, int buffer_size);
 char	*ft_strjoin(char *s1, char *s2);
 char	*ft_strchr(const char *s, int c);
 size_t	ft_strlen(char *s);
